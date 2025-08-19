@@ -4,7 +4,7 @@ My project for Code the Dream
 
 I used TheDogAPI
 
-#Hoe to run the app
+#How to run the app
 1. Download or clone the repo  
 2. Open `index.html` in your browser  
 
