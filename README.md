@@ -9,6 +9,6 @@ I used TheDogAPI
 2. Open `index.html` in your browser  
 
 #How it Works
-Click on the Show Breeds button and a list of 5 dog breeds with their names and temperaments will show  
-Click on the Show Images and random dog images will pop up  
+##Click on the Show Breeds button and a list of 5 dog breeds with their names and temperaments will show  
+##Click on the Show Images and random dog images will pop up  
 
